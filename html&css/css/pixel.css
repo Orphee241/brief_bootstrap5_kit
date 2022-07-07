@@ -16,6 +16,23 @@
 */
 @import url("https://fonts.googleapis.com/css?family=Nunito+Sans:300,400,600,700&display=swap");
 
+/* Police */
+
+@font-face {
+    font-family: Relative-Book;
+    src: url("../police/gza-seminegra-webfont.ttf");
+
+}
+
+.steeven{
+    font-family: Relative-Book !important;
+    font-size: 36px !important;
+}
+
+
+
+
+
 .datepicker {
     display: none;
 }
